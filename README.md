@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi, I'm Flavio Solci 👋
 
-<!--
-**flaviosolci/flaviosolci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="images/it-crowd.gif" width="500">
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥 Backend Developer
+
+- 🗄 Working at [Relay42](https://relay42.com/)
+
+- 🏡 Currently living in the Netherlands 🇳🇱. Originally from Brazil 🇧🇷
+
+
+## ⚡ Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![AxonIQ](https://img.shields.io/badge/Axon-E34F26?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://www.axoniq.io/)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+<br/>
+
+---
+
+<br/>
+
+## Follow Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-flaviosolci-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviosolci/)](https://www.linkedin.com/in/flaviosolci/)
+[![Twitter Badge](https://img.shields.io/badge/@flaviosolci-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=flaviosolci "Follow on Twitter")
+
+[![TryHackMe Badge](https://img.shields.io/badge/-simpleduck-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/simpleduck)](https://tryhackme.com/p/simpleduck)
+[![HackerRank Badge](https://img.shields.io/badge/-flavio_solci-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/flavio_solci)](https://www.hackerrank.com/flavio_solci)
+[![Hack The Box Badge](https://img.shields.io/badge/-huntingthings-9FEF00?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://app.hackthebox.com/profile/518584)](https://app.hackthebox.com/profile/518584)
