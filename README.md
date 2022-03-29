@@ -28,11 +28,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-<br/>
-
 ---
-
-<br/>
 
 ## Follow Me
 
