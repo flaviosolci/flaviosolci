@@ -2,15 +2,15 @@
 
 <img align='right' src="images/it-crowd.gif" width="500">
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 - 🖥 Backend Developer
 
-- 🗄 Working at [Relay42](https://relay42.com/)
+- 🗄 Working at [Supermetrics](https://supermetrics.com/)
 
 - 🏡 Currently living in the Netherlands 🇳🇱. Originally from Brazil 🇧🇷
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -28,12 +28,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
----
-
 ## Follow Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-flaviosolci-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviosolci/)](https://www.linkedin.com/in/flaviosolci/)
-[![Twitter Badge](https://img.shields.io/badge/@flaviosolci-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=flaviosolci "Follow on Twitter")
 
 [![TryHackMe Badge](https://img.shields.io/badge/-simpleduck-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/simpleduck)](https://tryhackme.com/p/simpleduck)
 [![HackerRank Badge](https://img.shields.io/badge/-flavio_solci-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/flavio_solci)](https://www.hackerrank.com/flavio_solci)
