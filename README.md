@@ -7,7 +7,8 @@
 - 🧭 **Tech Lead** at [Supermetrics](https://supermetrics.com/), leading the team behind a data integration and orchestration platform that handles up to 500K events/second
 - 🏗 10+ years building backend systems: event-driven architecture, CQRS & Event Sourcing (Axon), and Java/Spring microservices on AWS
 - 🌱 I enjoy mentoring engineers and helping them grow from junior to senior
-- 🎓 Oracle Certified Professional, Java SE 11 Developer
+- 🤖 Currently exploring AI-assisted engineering: Claude Code, OpenCode and agent orchestration
+- 🎓 [Oracle Certified Professional, Java SE 11 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FFC46D02DAA2B8D5FFE262B99BD679E4850DEFC06282A9EAFBF3DF873CAE505B)
 - 🏡 Based in Amsterdam 🇳🇱, originally from Brazil 🇧🇷
 - 🗣 Portuguese · English · Spanish (learning)
 
@@ -41,13 +42,6 @@
 ![Karate](https://img.shields.io/badge/Karate-2E8B57?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=flaviosolci&show_icons=true&hide_border=true&theme=transparent" alt="Flavio's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviosolci&layout=compact&hide_border=true&theme=transparent" alt="Flavio's top languages">
-</p>
 
 ### 🤝 Connect
 
